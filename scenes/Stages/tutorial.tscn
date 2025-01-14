@@ -8,7 +8,7 @@
 [ext_resource type="Texture2D" uid="uid://bkd6uxi25cj26" path="res://assets/props/Rock6.png" id="5_ln1hw"]
 [ext_resource type="PackedScene" uid="uid://56scp0c1nx7i" path="res://scenes/sound/SoundManager.tscn" id="6_bo1jr"]
 [ext_resource type="PackedScene" uid="uid://cnyofc2iqx0nx" path="res://scenes/sound/bus_cave_reverb.tscn" id="7_xx7w1"]
-[ext_resource type="PackedScene" path="res://scenes/sound/cave_ambience.tscn" id="8_81lsm"]
+[ext_resource type="PackedScene" uid="uid://cujrdyphs1xe3" path="res://scenes/sound/cave_ambience.tscn" id="8_81lsm"]
 [ext_resource type="AudioBusLayout" uid="uid://dj2qsp6w6kf5t" path="res://CaveReverb.tres" id="8_ge3u3"]
 [ext_resource type="PackedScene" uid="uid://s8gie7h8k0ak" path="res://scenes/entities/enemies/guard.tscn" id="10_4jism"]
 [ext_resource type="PackedScene" uid="uid://bakn2a3wusqmm" path="res://scenes/entities/environment/cave_door.tscn" id="11_rpxe0"]
@@ -38,7 +38,7 @@
 [ext_resource type="Texture2D" uid="uid://dmic5l6fgd60n" path="res://assets/props/OrangeBush2.png" id="35_t34fl"]
 [ext_resource type="Texture2D" uid="uid://cfpw4qw3cnoto" path="res://assets/props/OrangeTree2.png" id="36_navbp"]
 [ext_resource type="PackedScene" uid="uid://b74hgtvtnf6xu" path="res://scenes/save/save_debugger.tscn" id="37_yn4n6"]
-[ext_resource type="PackedScene" path="res://scenes/entities/environment/Potions/pedestal.tscn" id="38_rnd3i"]
+[ext_resource type="PackedScene" uid="uid://cyqxs041qy6s1" path="res://scenes/entities/environment/Potions/pedestal.tscn" id="38_rnd3i"]
 [ext_resource type="PackedScene" uid="uid://bammgjxm85t3k" path="res://scenes/entities/environment/props/barrel.tscn" id="39_0cbvn"]
 [ext_resource type="PackedScene" uid="uid://c6h5ii6auaj76" path="res://scenes/entities/environment/props/rock.tscn" id="40_32l8c"]
 

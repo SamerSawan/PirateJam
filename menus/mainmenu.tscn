@@ -5,7 +5,7 @@
 [ext_resource type="PackedScene" uid="uid://cnyofc2iqx0nx" path="res://scenes/sound/bus_cave_reverb.tscn" id="5_0cim3"]
 [ext_resource type="PackedScene" uid="uid://cgmbwm3uwfh02" path="res://scenes/entities/environment/Cave_Background_Parallax.tscn" id="5_i0v56"]
 [ext_resource type="AudioBusLayout" uid="uid://dj2qsp6w6kf5t" path="res://CaveReverb.tres" id="6_mwfxh"]
-[ext_resource type="PackedScene" path="res://scenes/sound/cave_ambience.tscn" id="7_egfgg"]
+[ext_resource type="PackedScene" uid="uid://cujrdyphs1xe3" path="res://scenes/sound/cave_ambience.tscn" id="7_egfgg"]
 
 [node name="mainmenu" type="Control" node_paths=PackedStringArray("continuebutton", "newbutton", "optionsbutton", "quitbutton")]
 layout_mode = 3
